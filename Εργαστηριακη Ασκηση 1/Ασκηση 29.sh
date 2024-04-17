@@ -1,0 +1,1 @@
+find $HOME -type d -user $USER -print 2>/dev/null > folders

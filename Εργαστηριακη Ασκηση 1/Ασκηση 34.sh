@@ -1,0 +1,1 @@
+awk '{if($3>1980)print}' < coins.txt

@@ -1,0 +1,1 @@
+sudo find /etc/ -type f | wc -l

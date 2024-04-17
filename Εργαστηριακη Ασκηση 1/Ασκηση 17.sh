@@ -1,0 +1,1 @@
+chmod o+rw file{1,2}

@@ -1,0 +1,1 @@
+grep .*r$ coins.txt

@@ -1,0 +1,1 @@
+mv i*.conf /tmp/ 
